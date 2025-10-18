@@ -1,0 +1,8 @@
+The clustering results show that a vector size of 100 yields the best performance, achieving a silhouette score of 0.124, slightly higher than those for 50 and 150 dimensions. Although the overall scores are moderate, they consistently indicate the presence of two meaningful clusters.
+
+Cluster 0 mainly includes posts about travel planning and advice seeking, such as vacation ideas or destination recommendations.
+Cluster 1 focuses on travel experiences and reflections, describing personal trips and locations visited.
+
+The t-SNE visualizations confirm these patterns: higher-dimensional embeddings (especially 100) form clearer, more compact groups, while 150 dimensions introduce some overlap, suggesting mild overfitting.
+
+In summary, the Doc2Vec model with 100-dimensional embeddings provides the best balance between representation richness and semantic separability, effectively distinguishing between “planning” and “experience sharing” themes in travel-related texts.
