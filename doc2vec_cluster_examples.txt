@@ -1,0 +1,80 @@
+===== Training Doc2Vec (vector_size=50) =====
+Best k = 2 (silhouette = 0.1195)
+
+Cluster 0
+  1. horseback riding my partner and are taking trip to myrtle beach may rd th at the caravelle resort is there any specific horseback riding companies nea
+  2. cheapest family all inclusives leaving from canada in july any tips or tricks thanks in advance advance all inclusives canada cheapest family july lea
+  3. summer vacation leaving canada hi everyone my partner and live in vancouver and we are going to be booking trip for week to ten days at the end of jul
+  4. vacation help hello my boyfriend and and me are graduating this year we want to try and go on senior trip together we have been together since freshme
+  5. best costco oahu package does anybody have experience with costco vacation packages and have any recommendations as to which one is the best anybody b
+  6. vacation suggestion apps sites are there any online platforms or apps that offer vacation suggestions tailored to specific dates for instance have day
+  7. fun travel spots for me and my girlfriend my girlfriend and are looking for nice getaway later this year got good pay bump and saving up money to go o
+  8. where would you go for quiet solo trip the kids are with their dad soon and thinking about little solo getaway any favorite spots that are peaceful sa
+  9. family vacation looking for recs of best dream place for family with young kids to take chill vacation please share location activities if you have an
+  10. where should go from august male and ll be by that time and would like to know where to visit for week interested in beaches and oceans live near chic
+
+Cluster 1
+  1. has anyone ever won vacation through vacationoffers com entered contest few months ago and actually won lol ve been seeing lot of mixed reviews about 
+  2. vacation so planning vacation with my immediate family have two kids and my year old is bringing her boyfriend of years my year old is bringing friend
+  3. what do you do if your flight arrives at time when your hotel does not allow check in allow arrives check in flight hotel time
+  4. what to do in boulder colorado was offered to go on vacation this month with my sis on june th th ve never been before and it kind of last second ve g
+  5. rent atv quad bikes and scooters in santorini atv rentals santorini atv bikes quad rent rentals santorini scooters
+  6. am the bad the guy for asking for refund host left me bad review after had to clean the shower after finding multiple hairs and this in the shower and
+  7. tomorrow is the first day of vacation does it get better than this yea need to oil the deck better day deck first need oil this tomorrow vacation yea
+  8. frankfort nuremberg will be joining my husband for business trip to nuremberg in march and am asking for two pieces of advice ve joined him before so 
+  9. traveling soon don ditch that face mask mandate for planes extended through may ditch extended face mandate mask may planes soon traveling
+  10. reasons to visit the beautiful islands of guadeloupe beautiful guadeloupe islands reasons visit
+
+===== Training Doc2Vec (vector_size=100) =====
+Best k = 2 (silhouette = 0.1244)
+
+Cluster 0
+  1. underrated places things in florida planning fl trip the fam trying to think of other things besides the theme parks in florida know we re going to or
+  2. looking for suggestions hello everyone my boyfriend and are wanting to plan vacation and looking for ideas he sports guy and wants to attend sporting 
+  3. all inclusive could anyone recommend any all inclusive places in the united states to travel for weekend or few days anyone days inclusive places reco
+  4. good place for family vacation to the beach in the us greetings looking for family destination to warm beach in the states yo and below any recommenda
+  5. travel feb mar hi all looking for some info planning family vacation for hoping to avoid the busiest of the days for school breaks march break for ont
+  6. hawaii vacation tips hello my husband and want to take our daughter to hawaii for her birthday in the beginning of august have never been he really wa
+  7. family vacation package where are we booking family vacation package to orlando from ny ve looked on expedia but was wondering if there somewhere bett
+  8. maine vacation help hello people of maine my wife and are looking for vacation spots in maine for my th birthday have friend marrying in connecticut a
+  9. vacation for couple late february my husband and are looking for somewhere to travel for week the second part of february we prefer to stay in the us 
+  10. need recommendations just graduated from college in the beginning of may and my family offered to do either graduation party or trip in and chose to t
+
+Cluster 1
+  1. vacation in japan hello everyone would someone maybe want to go to trip to japan tokyo im big anime fan but also love the culture there will be going 
+  2. la perla la perla
+  3. travel agent or tour guide search is anyone looking for travel agent or tour guide host agent anyone guide host looking search tour travel
+  4. cheap travel with timeshare presentation years ago travelled to mexico for for people all inclusive for resort stay providing you have to attend times
+  5. wouldn it be nice wouldn it be nice if everyone just didn vacation away this summer to help promote the destruction of dynamic pricing our lovely unit
+  6. my vaycay pt pt vaycay
+  7. today for me is nostalgia monday so let enjoy some urban beauty of bangkok and also remember just passed christmas and last but definitely not least m
+  8. seeking family beach vacay help looking for beach side vacation that is little kid friendly in the florida ga gulf of mexico area pool close to airpor
+  9. vacation to germany hi all am wanting to surprise my husband for his th birthday with trip to germany he is usually the planner he loves to plan vacat
+  10. trip is over but ve wonderful souvenirs with me now now over souvenirs trip wonderful
+
+===== Training Doc2Vec (vector_size=150) =====
+Best k = 2 (silhouette = 0.1240)
+
+Cluster 0
+  1. need ideas for couples vacation me and my new wife are planning late honeymoon we got married in november and she is school teacher and we could not g
+  2. ireland vacation want to plan vacation to ireland for next year absolutely do not want to drive and want it to be in good weather not sure what month 
+  3. highish end night stay with toddler three hours from philly for june hi there am will be months pregnant in june and was hoping to do nice trip with m
+  4. tulum suggestions on places to stay and activities to do going to tulum in april for week to celebrate nd birthday and looking for suggestions on wher
+  5. any tips on travel in mexico hey everyone so going on vacation around new years to mexico and ll be staying near playa del carmen ve never been outsid
+  6. cheap day vacation flying from cali budget is around know this isn the largest budget but open to hearing some suggestions live in northern cali and w
+  7. conflicted help my husband has been wanting to go to colombia he already doesn like flying but with recent events he definitely not trying to get on p
+  8. skipping florida this year mayan riviera or cuba cuba florida mayan riviera skipping year
+  9. cheap instagram worthy vacation driving from ohio with toddlers my mil really wants the family to take vacation together pretty sure mostly for the gr
+  10. where should go from august male and ll be by that time and would like to know where to visit for week interested in beaches and oceans live near chic
+
+Cluster 1
+  1. tahoe sunset estate lakefront vacation rental tour this home with estate home lakefront rental sunset tahoe tour vacation
+  2. cozy authentic lebanese village architecture of douma on my way to north lebanon have you seen something like it architecture authentic cozy douma leb
+  3. when ya gotta get the workout in on vacation gotta vacation workout ya
+  4. am the bad the guy for asking for refund host left me bad review after had to clean the shower after finding multiple hairs and this in the shower and
+  5. the salt pools of siwa oasis in egypt egypt oasis pools salt siwa
+  6. help me with follow and like show some love follow help love show
+  7. driving through bears bearizona williams arizona arizona bearizona bears driving williams
+  8. land land
+  9. risk of covid exposure on planes virtually nonexistent when masked study shows virtually covid exposure masked nonexistent planes risk shows study
+  10. visited the superman museum in metropolis il still practicing distancing at the drinking fountain distancing drinking fountain il metropolis museum pr
