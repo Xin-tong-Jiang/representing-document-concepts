@@ -1,0 +1,5 @@
+Word2Vec outperforms Doc2Vec across all vector sizes. Word2Vec achieves silhouette scores of 0.3308, 0.2796, and 0.2247 for dimensions 50, 100, and 150, compared to Doc2Vec's scores of 0.12, 0.124 and declining. The visualizations also confirm this. Word2Vec shows mostly clear spatial separation between clusters, while Doc2Vec suffers from more overlap at all dimensions.
+
+Word2Vec performs best at 50 dimensions with the highest silhouette score and cleanest boundaries. Doc2Vec peaks at 100 dimensions but still shows mixed results. Both methods degrade at 150. Doc2Vec maintains some balance with increased overlap, and Word2Vec collapses into one dominant cluster.
+
+The Word2Vec model with 50-dimensional embeddings provides the best clustering for this dataset. Frequency-based vectors capture the distinction between planning and experience posts more effectively than Doc2Vec's semantic embeddings, which suggests that word-level patterns are more discriminative than contextual information for these travel discussions.
